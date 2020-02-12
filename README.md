@@ -1,0 +1,3 @@
+# Estatistica
+
+CADEIRA PARA DATA SCIENCE!! 
